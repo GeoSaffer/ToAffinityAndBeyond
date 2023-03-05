@@ -6,7 +6,7 @@ Setting the Affinity will set it to the specified core you want the process to r
 a specific application to only use a certain core/cores, to make sure that resources are available for whatever else you want to run.
 
 This program was inspired by the frustration of managing Ark Survival Evolved Servers with limited hardware and management tools that
-don't work as well as the creators beleive its does. 
+don't work as well as the creators beleive it does. 
 
 If you find this program usefull, please consider donating. Every little bit helps in the long run.
 
